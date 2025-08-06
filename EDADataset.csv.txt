@@ -1,0 +1,11 @@
+Name,Age,Height,Weight,Score
+Alice,25,165,55,85
+Bob,30,175,78,90
+Charlie,22,160,50,70
+David,35,180,85,88
+Eva,28,170,60,92
+Frank,40,172,75,80
+Grace,27,168,58,95
+Henry,33,182,90,85
+Ivy,29,166,57,89
+Jack,31,178,82,91
